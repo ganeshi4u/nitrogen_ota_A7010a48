@@ -1,0 +1,34 @@
+<ROM>
+<RomName>Nitrogen-OS</RomName>
+<VersionName>Nitrogen-OS-A7010a48-20170429</VersionName>
+<VersionNumber type="integer">20170429</VersionNumber>
+<DirectUrl>
+<![CDATA[
+https://sourceforge.net/projects/myromupdates/files/A7010a48/Nitrogen-OS-A7010a48-20170429.zip/download
+]]>
+</DirectUrl>
+<HttpUrl>
+<![CDATA[
+https://sourceforge.net/projects/myromupdates/files/A7010a48/Nitrogen-OS-A7010a48-20170429.zip
+]]>
+</HttpUrl>
+<Android>7.1.2</Android>
+<CheckMD5 nil="true"/>
+<FileSize type="integer">341835776</FileSize>
+<Developer>
+<![CDATA[ Ganesh Varma ]]>
+</Developer>
+<WebsiteURL>
+<![CDATA[
+https://plus.google.com/communities/111037372581335961267
+]]>
+</WebsiteURL>
+<DonateURL>
+<![CDATA[
+https://www.paypal.com/donate/?token=t7UE65J3ILraZjoUuIXa5Pw_bxEbEILGrDpYYTsoe3HOFTKbhj2V-5ADZePuEdQ89Icwhm
+]]>
+</DonateURL>
+<Changelog>
+<![CDATA[ Changelog ]]>
+</Changelog>
+</ROM>
